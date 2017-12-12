@@ -7,7 +7,7 @@ author:		Frings
 header-img:	img/post-bg-swift2.jpg
 catalog: true
 tags:
-	- Gradle
+    - Gradle
 ---
 
 在创建Gradle的工程的时候经常都会看见这么一个东西叫做:
