@@ -1,4 +1,4 @@
-﻿---
+---
 layout:		post
 title: 		Gradle中的BuildScript
 subtitle:	Gradle中的BuildScript,emmmm
