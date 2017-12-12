@@ -1,13 +1,15 @@
 ---
-layout:		post
-title: 		Gradle中的BuildScript
-subtitle:	Gradle中的BuildScript,emmmm
-date:		2017-12-07
-author:		Frings
-header-img:	img/post-bg-swift2.jpg
-catalog: 	true
+layout:     post
+title:      Git 代码回滚
+subtitle:   回滚代码的正确姿势
+date:       2017-02-16
+author:     BY
+header-img: img/post-bg-debug.png
+catalog: true
 tags:
-	- Gradle
+    - Mac
+    - 终端
+    - Git
 ---
 
 在创建Gradle的工程的时候经常都会看见这么一个东西叫做:
